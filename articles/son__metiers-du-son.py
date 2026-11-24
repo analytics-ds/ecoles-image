@@ -6,7 +6,7 @@ ARTICLE = dict(
  kicker="Guide", h1="Quels sont les métiers du son et comment y accéder ?",
  lead="Le son ne se résume pas au studio d’enregistrement. Du plateau de tournage à la salle de concert, chaque métier a ses gestes, ses outils et ses formations.",
  img="art-6.jpg", img_alt="Ingénieur du son devant une console de mixage",
- date="2026-11-19", date_fr="19 novembre 2026", reading="7", nb="6", nb_unit="métiers",
+ date="2026-11-19", date_fr="19 novembre 2026", reading="7", nb="6", nb_unit="métiers", meta_nb="<b>6 métiers</b> présentés",
  brief_answer="Les principaux métiers du son sont <b>ingénieur du son</b>, mixeur, monteur son, sound designer, perchman et régisseur son. On y accède le plus souvent par une formation bac+3, comme le <b>Bachelor Ingénieur du son de 3iS</b>, titre RNCP 39888 de niveau 6 proposé sur 5 campus, ou par le concours de l’ENS Louis-Lumière.",
  brief=[
   "L’ingénieur du son enregistre, monte et mixe, au cinéma comme en musique",

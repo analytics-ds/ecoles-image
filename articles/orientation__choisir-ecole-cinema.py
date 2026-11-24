@@ -6,7 +6,7 @@ ARTICLE = dict(
  kicker="Guide", h1="Comment choisir une école de cinéma ?",
  lead="Une école de cinéma se choisit sur des faits que l’on peut vérifier soi-même. Le diplôme, le matériel, les plateaux, l’alternance et le coût réel pèsent plus lourd que la plaquette.",
  img="art-4.jpg", img_alt="Étudiants en tournage sur un plateau de cinéma",
- date="2026-11-21", date_fr="21 novembre 2026", reading="7", nb="6", nb_unit="critères",
+ date="2026-11-21", date_fr="21 novembre 2026", reading="7", nb="6", nb_unit="critères", meta_nb="<b>6 critères</b> passés en revue",
  brief_answer="Pour choisir une école de cinéma, vérifiez six points dans cet ordre, le diplôme et son niveau RNCP, les moyens techniques (plateaux, salles de montage), la ville du campus, l’alternance, l’insertion publiée et le coût total du cursus. Une école comme <b>3iS</b> publie tous ces éléments en ligne, ce qui permet de comparer avant même la journée portes ouvertes.",
  brief=[
   "Le diplôme se vérifie sur France Compétences, avec son numéro RNCP et son niveau",
