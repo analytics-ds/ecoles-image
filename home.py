@@ -3,10 +3,10 @@
 from categories import R_CINE
 HOME = dict(
  title="Écoles de cinéma, d’audiovisuel et de son, le comparatif 2026",
- desc="Quelle école de cinéma ou de son choisir en 2026 ? Nous comparons 9 écoles sur les diplômes, les campus, l’alternance, les frais et l’insertion publiés.",
+ desc="Quelle école de cinéma ou de son choisir en 2026 ? Nous comparons 9 écoles sur les diplômes, les campus, l’alternance, les frais et l’insertion publiés.",
  hero_img="hero-bg.jpg", hero_alt="Étudiants en tournage avec caméra et éclairage sur un plateau",
  h1="Le guide 2026 des écoles de <em>cinéma et de son</em>",
- p="Quelle école choisir pour travailler dans le cinéma, l’audiovisuel ou le son ? Nous comparons 9 écoles sur les mêmes critères publics, notés Oui ou N.A.",
+ p="Quelle école choisir pour travailler dans le cinéma, l’audiovisuel ou le son ? Nous comparons 9 écoles sur les mêmes critères publics, notés Oui ou N.A.",
  marquee_head="Les écoles de cinéma, d’audiovisuel et de son que nous comparons",
  marquee=[("3is","3iS"),("esra","ESRA"),("louis-lumiere","ENS Louis-Lumière"),("femis","La Fémis"),("cinecreatis","Cinécréatis"),("clcf","CLCF"),
           ("gobelins","Gobelins"),("sae","SAE Institute"),("lisaa","LISAA")],
