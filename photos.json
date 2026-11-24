@@ -1,0 +1,344 @@
+{
+ "hero-bg.jpg": {
+  "q": "game design students team",
+  "w": 2400,
+  "h": 1600,
+  "alt": "Étudiants qui travaillent sur un jeu vidéo en salle informatique"
+ },
+ "cat-sound-design.jpg": {
+  "q": "sound engineer mixing console",
+  "w": 760,
+  "h": 720,
+  "alt": "Étudiant en studio son devant une console de mixage"
+ },
+ "cat-alternance-hero.jpg": {
+  "q": "apprentice designer mentor",
+  "w": 2000,
+  "h": 900,
+  "alt": "Apprenti en studio de création à côté de son tuteur"
+ },
+ "cat-alternance.jpg": {
+  "q": "apprentice designer mentor",
+  "w": 760,
+  "h": 720,
+  "alt": "Apprenti en studio de création à côté de son tuteur"
+ },
+ "cat-orientation-hero.jpg": {
+  "q": "student laptop career",
+  "w": 2000,
+  "h": 900,
+  "alt": "Lycéenne qui consulte des formations sur son ordinateur"
+ },
+ "cat-orientation.jpg": {
+  "q": "student laptop career",
+  "w": 760,
+  "h": 720,
+  "alt": "Lycéenne qui consulte des formations sur son ordinateur"
+ },
+ "sub-prod.jpg": {
+  "q": "team meeting whiteboard",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-public.jpg": {
+  "q": "university building entrance",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-paris.jpg": {
+  "q": "paris street students",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-admission.jpg": {
+  "q": "job interview portfolio",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-cinema.jpg": {
+  "q": "animation film storyboard",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-bac.jpg": {
+  "q": "happy students exam results",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-portfolio.jpg": {
+  "q": "drawing sketchbook",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-musique.jpg": {
+  "q": "composer piano studio",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-diplome.jpg": {
+  "q": "graduate holding diploma",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-alternance.jpg": {
+  "q": "apprentice office mentor",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-materiel.jpg": {
+  "q": "studio microphone",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-metiersson.jpg": {
+  "q": "foley artist recording",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-gratuit.jpg": {
+  "q": "library students studying",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-bourse.jpg": {
+  "q": "student counting money",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-universite.jpg": {
+  "q": "university lecture hall",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-financement.jpg": {
+  "q": "piggy bank coins",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-autodidacte.jpg": {
+  "q": "learning online laptop night",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-parcoursup.jpg": {
+  "q": "teenager laptop desk",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-studio.jpg": {
+  "q": "game studio open space",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "sub-salaire.jpg": {
+  "q": "euro banknotes",
+  "w": 200,
+  "h": 200,
+  "alt": "Visuel du sous-thème"
+ },
+ "art-1.jpg": {
+  "q": "students game prototype test",
+  "w": 1300,
+  "h": 860,
+  "alt": "Étudiants qui testent un prototype de jeu vidéo en salle de cours"
+ },
+ "art-2.jpg": {
+  "q": "3d animation workstation",
+  "w": 1300,
+  "h": 860,
+  "alt": "Animatrice qui règle la pose d’un personnage 3D sur deux écrans"
+ },
+ "art-3.jpg": {
+  "q": "foley recording studio",
+  "w": 1300,
+  "h": 860,
+  "alt": "Sound designer qui enregistre des bruitages en studio"
+ },
+ "art-4.jpg": {
+  "q": "student laptop library",
+  "w": 1300,
+  "h": 860,
+  "alt": "Étudiante qui travaille sur un ordinateur portable dans une bibliothèque universitaire"
+ },
+ "art-5.jpg": {
+  "q": "teenager drawing sketchbook",
+  "w": 1300,
+  "h": 860,
+  "alt": "Lycéen qui dessine dans un carnet de croquis"
+ },
+ "art-6.jpg": {
+  "q": "game studio team meeting",
+  "w": 1300,
+  "h": 860,
+  "alt": "Équipe de développeurs en réunion dans un studio de jeu vidéo"
+ },
+ "art-7.jpg": {
+  "q": "student game engine screen",
+  "w": 1300,
+  "h": 860,
+  "alt": "Étudiant concentré devant un moteur de jeu sur son écran"
+ },
+ "sub-montage.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "sub-mixage.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "cat-son-hero.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-prix-ecole-cinema-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-meilleures-ecoles-cinema-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-prix-ecole-cinema-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-meilleures-ecoles-cinema-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-choisir-ecole-cinema-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "sub-realisation.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "sub-spectacle.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-choisir-ecole-cinema-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "cat-son.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-meilleures-ecoles-son-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "sub-image.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "sub-campus.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "cat-cinema.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-metiers-du-son-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-meilleures-ecoles-son-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-metiers-du-son-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-ecoles-audiovisuel-alternance-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-bts-audiovisuel-ou-bachelor-2.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-ecoles-audiovisuel-alternance-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "in-bts-audiovisuel-ou-bachelor-1.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ },
+ "cat-cinema-hero.jpg": {
+  "q": "3is",
+  "w": 1200,
+  "h": 700,
+  "alt": "Photo 3iS"
+ }
+}

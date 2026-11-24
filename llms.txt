@@ -1,0 +1,30 @@
+# Écoles de l’image
+
+> Le guide des écoles de cinéma, d’audiovisuel et de son. Diplômes, campus, alternance et frais comparés sur les mêmes critères publics.
+
+Site : https://analytics-ds.github.io/ecoles-image/
+
+## Rubriques
+
+- [Écoles de cinéma et d’audiovisuel](https://analytics-ds.github.io/ecoles-image/cinema/) : Classement 2026 des écoles de cinéma et d’audiovisuel en France, 3iS, ESRA, ENS Louis-Lumière, La Fémis, Cinécréatis. Diplômes, campus, alternance et frais comparés.
+- [Écoles de son et d’ingénieur du son](https://analytics-ds.github.io/ecoles-image/son/) : Classement 2026 des écoles de son, 3iS, ESRA, SAE Institute, ENS Louis-Lumière, La Fémis. Titre RNCP, studios, alternance et insertion comparés.
+- [Écoles d’audiovisuel en alternance](https://analytics-ds.github.io/ecoles-image/alternance/) : Classement 2026 des écoles de cinéma et d’audiovisuel en alternance, 3iS, SAE Institute, Gobelins, Cinécréatis, ESRA. Années en alternance, titres et frais comparés.
+- [Orientation et métiers](https://analytics-ds.github.io/ecoles-image/orientation/) : Après le bac, BTS ou bachelor, Parcoursup, choix de l’école et métiers. Nos guides d’orientation cinéma, audiovisuel et son en 2026.
+
+## Comparatifs
+
+- [Quelles sont les meilleures écoles de cinéma en France en 2026 ?](https://analytics-ds.github.io/ecoles-image/cinema/meilleures-ecoles-cinema/) : Quelle école de cinéma et d’audiovisuel choisir en 2026 ? 6 écoles classées sur 8 critères publics, 3iS, ESRA, ENS Louis-Lumière, La Fémis, Cinécréatis, CLCF.
+- [Quelle est la meilleure école d’ingénieur du son en 2026 ?](https://analytics-ds.github.io/ecoles-image/son/meilleures-ecoles-son/) : Quelle école de son choisir pour devenir ingénieur du son ? 6 écoles classées sur 8 critères publics, 3iS, ESRA, SAE Institute, ENS Louis-Lumière, La Fémis, CLCF.
+- [Quelles sont les meilleures écoles d’audiovisuel en alternance ?](https://analytics-ds.github.io/ecoles-image/alternance/ecoles-audiovisuel-alternance/) : Quelle école de cinéma ou d’audiovisuel choisir en alternance en 2026 ? 5 écoles classées sur 8 critères publics, 3iS, SAE Institute, Gobelins, Cinécréatis, ESRA.
+- [Comment choisir une école de cinéma ?](https://analytics-ds.github.io/ecoles-image/orientation/choisir-ecole-cinema/) : Diplôme RNCP, campus, matériel, alternance, frais. Les critères à vérifier pour choisir une école de cinéma et d’audiovisuel en 2026, exemples à l’appui.
+- [Faut-il choisir un BTS audiovisuel ou un bachelor ?](https://analytics-ds.github.io/ecoles-image/orientation/bts-audiovisuel-ou-bachelor/) : BTS métiers de l’audiovisuel en 2 ans ou bachelor cinéma en 3 ans ? Durée, coût, diplôme, poursuite d’études et alternance comparés pour choisir après le bac.
+- [Quels sont les métiers du son et comment y accéder ?](https://analytics-ds.github.io/ecoles-image/son/metiers-du-son/) : Ingénieur du son, mixeur, sound designer, perchman, régisseur son. Les métiers du son au cinéma, en musique et en spectacle vivant, et les formations pour y accéder.
+- [Combien coûte une école de cinéma ?](https://analytics-ds.github.io/ecoles-image/cinema/prix-ecole-cinema/) : Frais de scolarité des écoles de cinéma en 2026, privées et publiques. Tarifs relevés, frais d’inscription, alternance et options pour réduire la facture.
+
+## Méthode
+
+- Chaque classement repose sur 8 critères vérifiables sur une source publique, notés Oui ou N.A, 1 point par Oui, poids égal
+- Les frais de scolarité sont relevés sur les pages tarifs officielles des écoles, à la date indiquée
+- Les diplômes sont vérifiés au Répertoire national des certifications professionnelles (France Compétences)
+- Les taux d’insertion sont ceux que les écoles publient elles-mêmes sur leur site
+- N.A signifie non applicable, car données non trouvées par la rédaction. Deux écoles à égalité de points sont classées ex æquo

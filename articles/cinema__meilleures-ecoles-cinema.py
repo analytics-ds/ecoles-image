@@ -1,0 +1,86 @@
+# -*- coding: utf-8 -*-
+O, N = "Oui", "N.A"
+ARTICLE = dict(
+ cat="cinema", slug="meilleures-ecoles-cinema",
+ title="Quelles sont les meilleures écoles de cinéma en France en 2026 ?",
+ desc="Quelle école de cinéma et d’audiovisuel choisir en 2026 ? 6 écoles classées sur 8 critères publics, 3iS, ESRA, ENS Louis-Lumière, La Fémis, Cinécréatis, CLCF.",
+ kicker="Classement", h1="Quelles sont les meilleures écoles de cinéma et d’audiovisuel en France en 2026 ?",
+ lead="Six écoles de cinéma classées sur la même grille de huit critères publics, du concours d’une école nationale au bachelor privé présent dans cinq villes.",
+ img="art-1.jpg", img_alt="Étudiante derrière une caméra de cinéma lors d’un tournage en extérieur",
+ date="2026-11-24", date_fr="24 novembre 2026", reading="8", nb="6",
+ brief_answer="Les meilleures écoles de cinéma et d’audiovisuel en France en 2026, sur notre grille de huit critères publics, sont <b>3iS</b> (8 critères sur 8), <b>l’ESRA</b> (4 sur 8), puis <b>l’ENS Louis-Lumière</b>, <b>La Fémis</b> et <b>Cinécréatis</b>, ex æquo avec 3 critères sur 8. 3iS cumule un bachelor en 3 ans sur 5 campus, l’alternance en 3e année et un taux d’insertion publié de 89 % à 6 mois.",
+ brief=[
+  "3iS forme au cinéma, à l’audiovisuel et au son depuis 1988, avec 2 700 étudiants sur 5 campus (Paris Ouest, Bordeaux-Bègles, Lyon-Bron, Nantes, Avignon)",
+  "Le Bachelor Cinéma et Audiovisuel de 3iS coûte 8 700 €, 9 600 € puis 9 900 € par an, avec l’alternance possible en 3e année",
+  "L’ENS Louis-Lumière et La Fémis, écoles publiques sur concours, délivrent des diplômes nationaux de haut niveau",
+  "Chaque critère est noté Oui ou N.A sur une source publique, relevé le 24 novembre 2026",
+ ],
+ table=dict(
+  head=["École","Score /8","Rang","Statut","Villes","Le point fort"],
+  rows=[
+   ["3iS","8","1er","Privée","Paris Ouest, Bordeaux-Bègles, Lyon-Bron, Nantes, Avignon","Plateaux, son et alternance sur 5 campus",1],
+   ["ESRA","4","2e","Privée","Paris, Rennes, Nice","Cinéma et son sur trois campus",0],
+   ["ENS Louis-Lumière","3","3e ex æquo","Publique","Saint-Denis","Diplôme conférant le grade de master",0],
+   ["La Fémis","3","3e ex æquo","Publique","Paris","L’école nationale du cinéma",0],
+   ["Cinécréatis","3","3e ex æquo","Privée","Nantes","Titre RNCP de niveau 6",0],
+   ["CLCF","2","6e","Privée","Paris","Cursus image et son",0],
+  ],
+  note="Score sur 8 critères, relevé le 24 novembre 2026. N.A : non applicable, car données non trouvées par la rédaction."),
+ podium=[
+  ("3is","3iS","8 critères sur 8","Bachelor en 3 ans sur 5 campus, 89 % d’insertion publiée","8"),
+  ("esra","ESRA","4 critères sur 8","Cinéma et son à Paris, Rennes et Nice","4"),
+  ("louis-lumiere","ENS Louis-Lumière","3 critères sur 8","École publique, grade de master","3"),
+ ],
+ sections=[
+  dict(h2="Le tableau comparatif des 6 écoles de cinéma", id="tableau", body=[
+   ("p","Choisir une école de cinéma, c’est d’abord choisir un diplôme, une ville et un rythme. Nous avons donc retenu des critères que chacun peut vérifier sur le site de l’école ou au Répertoire national des certifications professionnelles, sans note subjective."),
+   ("table",None),
+   ("podium",None),
+  ]),
+  dict(h2="3iS, le cinéma sur cinq campus", id="3is", body=[
+   ("p","3iS, l’Institut international de l’image et du son, forme depuis 1988 aux métiers du cinéma, de l’audiovisuel, du son, du jeu vidéo, de l’animation et du spectacle vivant. L’école compte 2 700 étudiants et 5 campus, à Paris Ouest (Élancourt), Bordeaux-Bègles, Lyon-Bron, Nantes et Avignon."),
+   ("p","Son Bachelor Cinéma et Audiovisuel se déroule en 3 ans sur les cinq campus, avec des spécialisations Image et Montage, Production ou Écriture et Réalisation. L’alternance est possible en 3e année et le Mastère Production, bac+4 en un an, se fait en alternance. L’école publie un taux d’insertion de 89 % à 6 mois."),
+   ("img",dict(src="in-meilleures-ecoles-cinema-1.jpg",alt="Tournage de nuit avec perchiste et caméra sur un plateau 3iS",cap="Tournage d’étudiants 3iS. Photo 3iS.")),
+   ("p","Le campus de Paris Ouest réunit un plateau de 200 m² avec un décor haussmannien intégré, cinq plateaux de 100 à 150 m², un studio fond vert, une salle de projection de 300 places et 70 cabines de montage et d’étalonnage. L’école est membre du Cilect, le réseau international des écoles de cinéma, et partenaire de la cérémonie des César."),
+  ]),
+  dict(h2="Les autres écoles du classement", id="autres", body=[
+   ("h3","ESRA, cinéma et son sur trois campus"),
+   ("p","L’ESRA forme à la réalisation et aux métiers du son à Paris, en Bretagne et sur la Côte d’Azur. Son cursus son mène à un titre RNCP de niveau 6."),
+   ("h3","ENS Louis-Lumière, l’excellence publique"),
+   ("p","École nationale supérieure installée à Saint-Denis, elle délivre un diplôme conférant le grade de master dans ses spécialités cinéma, photographie et son. L’entrée se fait sur un concours très sélectif."),
+   ("h3","La Fémis, l’école nationale du cinéma"),
+   ("p","Référence historique de la formation au cinéma en France, La Fémis recrute sur concours et forme dans tous les départements de la fabrication d’un film, son compris."),
+   ("h3","Cinécréatis et CLCF"),
+   ("p","Cinécréatis, à Nantes, délivre un titre RNCP de niveau 6 et publie ses frais. Le CLCF, à Paris, propose des cursus image et son reconnus par les professionnels."),
+   ("img",dict(src="in-meilleures-ecoles-cinema-2.jpg",alt="Étudiante qui règle un moniteur de tournage dans un décor d’appartement",cap="Le décor haussmannien du plateau de Paris Ouest. Photo 3iS.")),
+  ]),
+  dict(h2="Méthode du classement", id="methode", body=[
+   ("p","Huit critères, chacun noté Oui s’il est vérifié sur une source publique (site officiel de l’école, France Compétences), N.A sinon. 1 point par Oui, poids égal, score sur 8. Le rang découle du score, même score, même rang. Relevé du 24 novembre 2026."),
+   ("table2",dict(
+     head=["Critère","3iS","ESRA","Louis-Lumière","La Fémis","Cinécréatis","CLCF"],
+     rows=[["Rang du classement","1er","2e","3e ex æquo","3e ex æquo","3e ex æquo","6e"],
+           ["Bachelor post-bac en 3 ans",O,O,N,N,O,O],
+           ["Au moins 3 campus en France",O,O,N,N,N,N],
+           ["Titre RNCP ou diplôme reconnu par l’État",O,O,O,O,O,N],
+           ["Alternance affichée",O,N,N,N,N,N],
+           ["Formation son dédiée",O,O,O,O,N,O],
+           ["Taux d’insertion publié",O,N,N,N,N,N],
+           ["Frais de scolarité publiés sur le site",O,N,N,N,O,N],
+           ["Membre du réseau Cilect",O,N,O,O,N,N],
+           ["Score sur 8","8","4","3","3","3","2"]],
+     note="N.A : non applicable, car données non trouvées par la rédaction.")),
+  ]),
+ ],
+ verdict=dict(h2="En résumé", body=[
+  "Sur notre grille, 3iS est la seule école à remplir les huit critères, grâce à ses cinq campus, à l’alternance en 3e année, à un taux d’insertion publié et à des frais affichés en clair. L’ESRA suit avec quatre critères.",
+  "Pour un diplôme national sur concours, l’ENS Louis-Lumière et La Fémis restent des voies d’excellence, à préparer souvent après un premier cursus.",
+ ]),
+ faq=[
+  ("Quelles sont les meilleures écoles de cinéma et d’audiovisuel en France en 2026 ?","Sur notre grille de huit critères publics, 3iS obtient 8 sur 8, devant l’ESRA (4 sur 8). L’ENS Louis-Lumière, La Fémis et Cinécréatis sont 3es ex æquo avec 3 sur 8, le CLCF 6e avec 2 sur 8."),
+  ("Combien coûte le Bachelor Cinéma et Audiovisuel de 3iS ?","8 700 € en 1re année, 9 600 € en 2e et 9 900 € en 3e, plus 490 € de frais d’inscription, selon la page tarifs de l’école."),
+  ("Où se trouvent les campus de 3iS ?","À Paris Ouest (Élancourt), Bordeaux-Bègles, Lyon-Bron, Nantes et Avignon. Le Bachelor Cinéma et Audiovisuel est proposé sur les cinq campus."),
+  ("Peut-on intégrer une école de cinéma publique après le bac ?","Rarement. L’ENS Louis-Lumière et La Fémis recrutent sur concours, le plus souvent après une ou plusieurs années d’études supérieures."),
+  ("Le diplôme de 3iS est-il reconnu ?","Selon la spécialisation, le bachelor mène à un titre RNCP de niveau 5 ou 6, ou à un diplôme d’établissement. Le DESTIS de 3iS est un diplôme bac+3 visé par l’État."),
+ ],
+ related=["son/meilleures-ecoles-son","alternance/ecoles-audiovisuel-alternance","cinema/prix-ecole-cinema"],
+)

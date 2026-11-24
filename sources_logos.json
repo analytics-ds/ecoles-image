@@ -1,0 +1,112 @@
+{
+ "isart": {
+  "source": "site",
+  "url": "https://www.isart.fr/wp-content/uploads/2023/12/Logo-ISART_classic_blanc.svg",
+  "credit": "https://isart.fr/",
+  "file": "isart.svg"
+ },
+ "rubika": {
+  "source": "wikipedia",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Rubika_logotype_noir.png/960px-Rubika_logotype_noir.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File:Rubika_logotype_noir.png",
+  "file": "rubika.png"
+ },
+ "gobelins": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Gobelins_School_of_the_Image_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://en.wikipedia.org/wiki/File:Gobelins_School_of_the_Image_logo.svg",
+  "file": "gobelins.svg"
+ },
+ "artfx": {
+  "source": "manuel",
+  "url": "/private/tmp/claude-501/-Users-pierregaudard/581ace67-fc8f-4e9c-9ea2-6d7e9d15670f/scratchpad/logos2/artfx.svg",
+  "file": "artfx.svg"
+ },
+ "esma": {
+  "source": "manuel",
+  "url": "/private/tmp/claude-501/-Users-pierregaudard/581ace67-fc8f-4e9c-9ea2-6d7e9d15670f/scratchpad/logos2/esma.svg",
+  "file": "esma.svg"
+ },
+ "lisaa": {
+  "source": "site",
+  "url": "https://lisaa.com/sites/all/themes/lisaa/img/logo.png",
+  "credit": "https://lisaa.com/",
+  "file": "lisaa.png"
+ },
+ "e-artsup": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/E_ARTSUP_LOGO_PNG.png/960px-E_ARTSUP_LOGO_PNG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AE_ARTSUP_LOGO_PNG.png",
+  "file": "e-artsup.png"
+ },
+ "creative-seeds": {
+  "source": "site",
+  "url": "https://creativeseeds.fr/core/views/creativeseeds-theme/assets/images/overlay-logo.webp",
+  "credit": "https://creativeseeds.fr/",
+  "file": "creative-seeds.webp"
+ },
+ "mopa": {
+  "source": "wikipedia",
+  "url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_MoPA.png/960px-Logo_MoPA.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://fr.wikipedia.org/wiki/Fichier:Logo_MoPA.png",
+  "file": "mopa.png"
+ },
+ "sae": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/SAE_Institute_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ASAE_Institute_Logo.svg",
+  "file": "sae.svg"
+ },
+ "louis-lumiere": {
+  "source": "manuel",
+  "url": "/private/tmp/claude-501/-Users-pierregaudard/581ace67-fc8f-4e9c-9ea2-6d7e9d15670f/scratchpad/logos2/louis-lumiere.png",
+  "file": "louis-lumiere.png"
+ },
+ "3is": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo-3iS-education-blanc.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ALogo-3iS-education-blanc.png",
+  "file": "3is.png"
+ },
+ "enjmin": {
+  "source": "manuel",
+  "url": "/private/tmp/claude-501/-Users-pierregaudard/581ace67-fc8f-4e9c-9ea2-6d7e9d15670f/scratchpad/enj/enjmin.png",
+  "file": "enjmin.png"
+ },
+ "esra": {
+  "source": "site",
+  "url": "https://esra.edu/wp-content/uploads/2025/05/Logo-ESRA-transparent.webp",
+  "credit": "https://esra.edu/",
+  "file": "esra.webp"
+ },
+ "clcf": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_clcf_-_150.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ALogo_clcf_-_150.png",
+  "file": "clcf.png"
+ },
+ "esec": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Esecforte_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AEsecforte_Logo.png",
+  "file": "esec.png"
+ },
+ "cinecreatis": {
+  "source": "site",
+  "url": "https://www.cinecreatis.net/app/uploads/2026/03/13prods-logo-blanc.png",
+  "credit": "https://cinecreatis.net/",
+  "file": "cinecreatis.png"
+ },
+ "femis": {
+  "source": "site",
+  "url": "https://femis.fr/squelettes/imgs/logo-psl5.png",
+  "credit": "https://femis.fr/",
+  "file": "femis.png"
+ },
+ "emc": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dell_EMC_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Dell_EMC_logo.svg",
+  "file": "emc.svg"
+ }
+}

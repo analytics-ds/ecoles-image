@@ -1,0 +1,65 @@
+[
+ {
+  "slug": "3is",
+  "name": "3iS",
+  "domain": "3is-education.fr",
+  "wiki": "Institut international de l'image et du son",
+  "role": "client"
+ },
+ {
+  "slug": "esra",
+  "name": "ESRA",
+  "domain": "esra.edu",
+  "wiki": "École supérieure de réalisation audiovisuelle",
+  "role": "competitor"
+ },
+ {
+  "slug": "clcf",
+  "name": "CLCF",
+  "domain": "clcf.com",
+  "wiki": "Conservatoire libre du cinéma français",
+  "role": "competitor"
+ },
+ {
+  "slug": "cinecreatis",
+  "name": "Cinécréatis",
+  "domain": "cinecreatis.net",
+  "wiki": "Cinécréatis",
+  "role": "competitor"
+ },
+ {
+  "slug": "louis-lumiere",
+  "name": "ENS Louis-Lumière",
+  "domain": "ens-louis-lumiere.fr",
+  "wiki": "École nationale supérieure Louis-Lumière",
+  "role": "competitor"
+ },
+ {
+  "slug": "femis",
+  "name": "La Fémis",
+  "domain": "femis.fr",
+  "wiki": "École nationale supérieure des métiers de l'image et du son",
+  "role": "competitor"
+ },
+ {
+  "slug": "gobelins",
+  "name": "Gobelins",
+  "domain": "gobelins.fr",
+  "wiki": "Gobelins, l'école de l'image",
+  "role": "competitor"
+ },
+ {
+  "slug": "lisaa",
+  "name": "LISAA",
+  "domain": "lisaa.com",
+  "wiki": "LISAA",
+  "role": "competitor"
+ },
+ {
+  "slug": "sae",
+  "name": "SAE Institute",
+  "domain": "sae.fr",
+  "wiki": "SAE Institute",
+  "role": "competitor"
+ }
+]
